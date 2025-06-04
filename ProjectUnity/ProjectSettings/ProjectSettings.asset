@@ -913,13 +913,13 @@ PlayerSettings:
   qnxGraphicConfPath: 
   apiCompatibilityLevel: 6
   captureStartupLogs: {}
-  activeInputHandler: 1
+  activeInputHandler: 2
   windowsGamepadBackendHint: 0
   cloudProjectId: b96cae1a-53b3-440d-9259-67ddb0b29c22
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
   projectName: ProjectUnity 2025-06-03_17-47-13
-  organizationId: gd68kay
+  organizationId: 
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}
