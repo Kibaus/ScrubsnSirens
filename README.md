@@ -11,7 +11,7 @@ In this game you'll find that new ways to collect good ratings which will help a
 [Game Design Document](https://docs.google.com/document/d/1IFfODwSn_zS48HQl3gFq4m7IbkObqg-wDMsOYcr7HG0/edit?tab=t.0)
 
 
-# Controls
+# Player Controls
 
 Actions               | Keyboard Control   
 ---                   |---                
@@ -20,7 +20,20 @@ Jump                  | SpaceBar
 Run/Sprint            | Left/Right SHIFT    
 Interact/Talk         | E
 
-Menu Actions          | Keyboard Control  
+
+# Vehicle Controls
+
+Actions               | Keyboard Control   
+---                   |---                                
+Steer                 | Mouse Drag
+Acceleration          | Left SHIFT    
+Deceleration          | CTRL
+Enter/Exit            | E
+
+
+# Menu Controls
+
+Menu Actions          | Keyboard Control
 ---                   |---                
 Gameplay Menu         | Esc
 Gameplay Exit         | Esc + Exit Game + Exit
